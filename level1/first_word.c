@@ -32,7 +32,7 @@ $>
 
 int main(int ac, char *av[])
 {
-    if (argc == 2)
+    if (ac == 2)
     {
         unsigned int i;
         
